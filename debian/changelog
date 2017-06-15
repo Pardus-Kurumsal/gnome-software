@@ -1,3 +1,11 @@
+gnome-software (3.25.1-1pardus1) experimental; urgency=medium
+
+  [ Cihangir Akturk ]
+  * debian/control: drop software-properties-gtk from Depends
+  * CI integration
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Thu, 15 Jun 2017 19:23:25 +0300
+
 gnome-software (3.25.1-1) experimental; urgency=medium
 
   [ Jeremy Bicha ]
